@@ -1,6 +1,6 @@
 Exception Handling in Python
 
-Welcome to this repository! This project contains a structured collection of Python programs focused on robust error handling, input validation using assertion checks, and designing custom exceptions according to real-world edge cases.
+# Lab Work #6.2: Exception Handling in Python
 
 This folder contains a collection of Python programs designed to practice and implement core error-handling mechanisms using `try...except`, `else`, and `finally` blocks. The objective is to write clean, resilient, and crash-free scripts.
 
@@ -13,7 +13,7 @@ This folder contains a collection of Python programs designed to practice and im
 * [Q6: Robust Division Program]
 * [Q7: Square Root Calculator]
 
-Lab Work 6.2
+---
 
 ### Q1: Division by Zero Handler
 * **Objective:** Develop a program that divides two numbers provided by the user.
@@ -41,6 +41,7 @@ Lab Work 6.2
 
 ### Q7: Square Root Calculator
 * **Objective:** Prompts the user for a number to find its square root value.
+* **Logic:** Uses `try...except` to catch invalid values (negative numbers), an `else` block to print the successful calculation, and a `finally` block to output "Execution complete."
 
 =============================================================================================================================
 
@@ -92,5 +93,4 @@ Here is a quick summary of the problems implemented in this repository:
 ### Q.8: Advanced Temperature Converter
 * Handles physical bounds check: Raises `TypeError` for non-numeric values, asserts hard absolute ranges (-273°C to 10,000°C), and raises a custom `HighTemperatureError` for anything above 1,000°C to flag unrealistic parameters.
 
-   git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
 * **Logic:** Uses `try...except` to catch invalid values (negative numbers), an `else` block to print the successful calculation, and a `finally` block to output "Execution complete."
