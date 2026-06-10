@@ -1,5 +1,3 @@
-# Lab Work #6.2:
-
 Exception Handling in Python
 
 Welcome to this repository! This project contains a structured collection of Python programs focused on robust error handling, input validation using assertion checks, and designing custom exceptions according to real-world edge cases.
@@ -15,7 +13,7 @@ This folder contains a collection of Python programs designed to practice and im
 * [Q6: Robust Division Program]
 * [Q7: Square Root Calculator]
 
----
+Lab Work 6.2
 
 ### Q1: Division by Zero Handler
 * **Objective:** Develop a program that divides two numbers provided by the user.
